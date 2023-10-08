@@ -17,8 +17,8 @@ Greetings, fellow netizen! Welcome to the world of **Rocket-Crawler-Troller**. W
 
 Luring unsuspecting crawlers into our web is as easy as 1-2-3:
 
-1. `git clone https://github.com/CHaos-Camp/rocket-crawler-troll.git`
-2. `cd rocket-crawler-troll`
+1. `git clone https://github.com/CHaos-Camp/rocket-crawler-troller.git`
+2. `cd rocket-crawler-troller`
 3. `docker-compose up -d`
 
 Then, sit back, relax, and watch the digital spectacle unfold.
